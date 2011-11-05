@@ -2,7 +2,6 @@
 
 Dit is een standaard Wordpress template die ik zelf gebruik
 
-
                 /                                   
                /               .'                   
               /              .'                     
@@ -13,21 +12,6 @@ Dit is een standaard Wordpress template die ik zelf gebruik
          /      \/.  C '  OWOWOWOWOW   _.-'         
         /     .---\  / --.         _.-'             
        /     /     \(     \    _.-'    HOLY GOD     
-      /     /  \    \  (.  )  '    THE RAPE RAYS    
-     /     /   /\       \ /                         
-    /      \  |  \       \               __..--''   
-   /   .'   \_\   )     )\\      __..--''           
-  /  .'      ) \  |    /   \  -''                   
- / .'   _   '///` (   /\    \                       
-/.' _.-'  __     /    ) )    )                      
-'.-'..--''      /   ,' /    /                       
- .__---------- /__./  /    / --------------------a:f
-    ``--..  __//  /   )   /                      ejm
-           /    _J)   /)`-\                         
-           `-__/-'  ` \\  |(                        
-                       `\   \  -..__                
-                         `--'       ``--..__        
-                                            ``--    
 
 ================================FEATURES===================================
 
@@ -35,6 +19,7 @@ Dit is een standaard Wordpress template die ik zelf gebruik
 - prettyPhoto loaded
 - nice functions.php
 - cpt ready
+- WP-Alchemy included
 
 ================================WIJZIGINGEN================================
 
