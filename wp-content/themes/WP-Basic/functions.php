@@ -168,6 +168,7 @@ $jquery_url = 'http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js';
 $script_url = get_template_directory_uri() . '/js/scripts.js';
 $prettyphoto_url = get_template_directory_uri() . '/js/jquery.prettyPhoto.js';
 $mediaquery_url = get_template_directory_uri() . '/js/css3-mediaqueries.js';
+$imgpreload_url = get_template_directory_uri() . '/js/jquery.imgpreload.min.js';
 // Bestaande jQuery uitschakelen
 wp_deregister_script('jquery');
 wp_register_script('jquery');
@@ -176,6 +177,7 @@ wp_enqueue_script('jquery');
 wp_enqueue_script('do_jquery', $jquery_url, array('jquery'),null, true );
 wp_enqueue_script('do_pretty', $prettyphoto_url, array('jquery'),null, true );
 wp_enqueue_script('do_mediaquery', $mediaquery_url, array('jquery'),null, true );
+wp_enqueue_script('do_imgpreload', $imgpreload_url, array('jquery'),null, true );
 wp_enqueue_script('do_scripts', $script_url, array('jquery'),null, true );
 }
 add_action('init','add_scripts');
