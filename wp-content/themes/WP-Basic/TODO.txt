@@ -10,6 +10,6 @@ update_option('home','http://http://www.site.nl');
 // Maak de ton leeg om de 5 dagen
 define('EMPTY_TRASH_DAYS', 5 );  
 
- 
+// Verplaats themes/mytheme/metaboxes naar WP-Basic theme
 	
 	
