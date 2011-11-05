@@ -1,8 +1,8 @@
 <?php 
 /*
-Template Name: Agenda
+Template Name: BEDENK_EEN_NAAM
 */
 get_header();
-get_template_part( 'loop', 'single-agenda' );	
-get_footer('agenda');
+get_template_part( 'loop', 'single-cpt' );	
+get_footer();
 ?>

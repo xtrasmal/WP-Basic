@@ -1,6 +1,6 @@
 <?php 
 /*
-Template Name: Agenda
+Template Name: BEDENK_EEN_NAAM
 */
 get_header();
 get_template_part( 'loop', 'agenda' );	
