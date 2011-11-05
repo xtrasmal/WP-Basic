@@ -1,0 +1,15 @@
+// wp.config:
+// Wat is de URL?
+define('WP_SITEURL', 'http://www.site.nl');
+define('WP_HOME', 'http://www.site.nl');
+// functions.php
+// Bij verhuizing
+update_option('siteurl','http://http://www.site.nl');
+update_option('home','http://http://www.site.nl');
+
+// Maak de ton leeg om de 5 dagen
+define('EMPTY_TRASH_DAYS', 5 );  
+
+ 
+	
+	
