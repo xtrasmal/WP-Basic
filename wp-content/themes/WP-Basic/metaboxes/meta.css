@@ -1,0 +1,62 @@
+.my_meta_control .description
+{ display:none; }
+ 
+.my_meta_control label
+{ display:block; font-weight:bold; margin:6px; margin-bottom:0; margin-top:12px; }
+ 
+.my_meta_control label span
+{ display:inline; font-weight:normal; }
+ 
+.my_meta_control span
+{ color:#999; display:block; }
+ 
+#_klantinfo_meta_metabox .my_meta_control textarea, .my_meta_control input[type='text']
+{ margin-bottom:3px; width:99%; }
+ 
+.my_meta_control h4
+{ color:#999; font-size:1em; margin:15px 6px; text-transform:uppercase; }
+
+#_klantfactuur_meta_metabox   .wpa_group-docs a
+{background-image:url(../images/metaboxes/plus.png);background-repeat:no-repeat;background-position:left top;padding: 5px 6px 5px 27px;border-radius:0px;margin-bottom: 3px; margin-left: 3px; margin-right: 8px; line-height: 24px;}
+
+#_klantfactuur_meta_metabox  .my_meta_control a.dodelete
+{background-image:url(../images/metaboxes/minusrij.png);background-repeat:no-repeat;background-position:left top;padding: 5px 6px 5px 27px;border-radius:0px; line-height: 24px;}
+
+#_klantfactuur_meta_metabox  .my_meta_control a.docopy-docs
+{background-image:url(../images/metaboxes/plusrij.png);background-repeat:no-repeat;background-position:left top;padding: 5px 6px 3px 27px;border-radius:0px;line-height: 24px;}
+#_klantinfo_meta_metabox  .topmetabox 
+{float:left;width:26%;margin-right:15px}
+#_klantinfo_meta_metabox  .topmetabox p
+{float:left;width:200px}
+
+#_klantfactuur_meta_metabox
+{padding-bottom:20px}
+#_klantinfo_meta_metabox .my_meta_control{height:200px}
+#_klantinfo_meta_metabox .my_meta_control input[type='text']{width:150px;float:right}
+#_klantinfo_meta_metabox .my_meta_control small{}
+
+#_klantinfo_meta_metabox .my_meta_control h4{
+	border-bottom: 1px dashed;
+    color: #999999;
+    float: left;
+    font-size: 1em;
+    height: 14px;
+    margin: 0px;
+    padding: 10px;
+    text-transform: uppercase;
+    width: 180px;
+}
+#_klantfactuur_meta_metabox  .my_meta_control {}
+#_klantfactuur_meta_metabox  .my_meta_control p{width:200px}
+#_klantfactuur_meta_metabox  .my_meta_control input[type='text']{width:99%;}
+#_klantfactuur_meta_metabox .my_meta_control small{}
+#_klantfactuur_meta_metabox .topmetabox {}
+#_klantfactuur_meta_metabox .monkey{float: left;position: relative;width: 26%;}
+#_klantfactuur_meta_metabox .monkeytwo{float: left;position: relative;width: 79px;}
+#_klantfactuur_meta_metabox .factuurinfo{position:relative;width:100%;float:left}
+#_klantfactuur_meta_metabox .infobox{ border-bottom: 1px dashed #CCCCCC;float: left;margin-bottom: 5px;position: relative;width: 26%;}
+#_klantfactuur_meta_metabox .infobox h4{border-right:1px dashed solid #cccccc}
+#_klantfactuur_meta_metabox .factuur{position:relative}
+#_klantfactuur_meta_metabox .factuurinput{float: left; position: relative;width: 100%;}
+#_klantfactuur_meta_metabox .wpa_loop-docs{position:relative}
+#_klantfactuur_meta_metabox .wpa_group{position:relative;}
