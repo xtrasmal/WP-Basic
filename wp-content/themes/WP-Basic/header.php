@@ -8,6 +8,7 @@
 <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/favicon.ico" type="image/x-icon"/>
 <!--[if lte IE 9]><link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/ie.css" type="text/css" media="screen" /><![endif]-->
 <link type="text/css" href="<?php bloginfo('template_directory'); ?>/css/style.css" rel="stylesheet">
+<!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
 <script type="text/javascript">/* <![CDATA[ */
 pathArray = window.location.pathname.split( '/' );
 var adminURL = pathArray[0]+'/'+pathArray[1]+'/'+pathArray[2]+'/wp-admin';
